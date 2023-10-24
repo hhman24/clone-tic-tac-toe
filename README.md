@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Getting Started with Create React App ⚛️
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+You will build a small tic-tac-toe game during this tutorial. This tutorial does not assume any existing React knowledge. The techniques you’ll learn in the tutorial are fundamental to building any React app, and fully understanding it will give you a deep understanding of React.
+
+## 👦 Member
+
+20127102 - Hoang Huu Minh An
+
+## 🛠️ Implement these features
+
+- ✅ For the current move only, show “You are at move #…” instead of a button: 1.8 points.
+- ✅ Rewrite the Board to use two loops to make the squares instead of hardcoding them: 1.8 points.
+- ✅ Add a toggle button that lets you sort the moves in either ascending or descending order: 1.8 points.
+- ✅ When someone wins, highlight the three squares that caused the win (and when no one wins, display a - message about the result being a draw): 1.8 points.
+- ✅ Display the location for each move in the format (row, col) in the move history list: 1.8 points.
+- ✅ Upload to a public host: 1 point
 
 ## Available Scripts
 

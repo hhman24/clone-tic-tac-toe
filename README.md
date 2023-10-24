@@ -8,6 +8,10 @@ You will build a small tic-tac-toe game during this tutorial. This tutorial does
 
 20127102 - Hoang Huu Minh An
 
+## 🌎 Demo deloy host public
+
+<https://hhman-tic-tac-toe-game.netlify.app>
+
 ## 🛠️ Implement these features
 
 - ✅ For the current move only, show “You are at move #…” instead of a button: 1.8 points.
